@@ -66,7 +66,7 @@ Solar 将根据活跃度、贡献质量，授予活跃成员 Solar 积分及核�
 
 ## 📢 开始你的 Solar Builder 之旅
 
-- [进入 Discussions 发起第一条交流](https://github.com/Solana-ZH/discussions)
+- [进入 Discussions 发起第一条交流](https://github.com/orgs/Solana-ZH/discussions)
 - [查看贡献指南](CONTRIBUTING.md)
 - [申请成为 Solar 社区成员](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdwQOjHyctNqpP4FlE6G_tSPUdpWwnIqqGp4SY7CThyfxByIA/viewform?usp=send_form)
 
